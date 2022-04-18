@@ -6,3 +6,4 @@ function Welcome(props) {
 }
 const element = <Welcome name="YOUR NAME" />;
 ReactDOM.render(element, document.getElementById("root"));
+
